@@ -1,0 +1,130 @@
+h1{
+    border: solid;
+    color: blueviolet;
+    padding-top: 25px;
+    padding-left: 110px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: Bookman, serif;
+    background-color: brown;
+}
+h2{
+    position: fixed;
+    top: 21%;
+    left: 85%;
+}
+
+p{
+    position: fixed;
+    top: 30%;
+    left: 83%;
+    text-align: center;
+}
+
+.AaiImg{
+    position: fixed;
+    top: 23%; 
+}
+
+.AaiImg p{
+    position: fixed;
+    top: 41%;
+    left: 3%;
+    font-size: 40px;
+    opacity: 0;
+}
+
+
+.AaiImg:hover p{
+    opacity: 1;
+}
+
+.AaiImg:hover img{
+    opacity: 0.33;
+}
+
+
+
+.makise{
+    position: absolute;
+    top: 27%;
+    left: 62%;
+}
+
+.makise p{
+    position: fixed;
+    top: 55%;
+    left: 31%;
+    font-size: 20px;
+    opacity: 0;
+}
+
+.makise:hover p{
+    opacity: 1;
+}
+
+.makise:hover img{
+    opacity: 0.33;
+}
+
+
+
+.papaimg{
+    position: absolute;
+    top: 20%;
+    left: 25%;
+}
+
+.papaimg p{
+    position: fixed;
+    top: 36%;
+    left: 62%;
+    font-size: 40px;
+    opacity: 0;
+}
+
+.papaimg:hover p{
+    opacity: 1;
+}
+
+.papaimg:hover img{
+    opacity: 0.33;
+}
+
+
+
+.shivjiImg{
+    position: absolute;
+    top: 65%;
+    left: 15%;
+}
+
+.shivjiImg p{
+    position: fixed;
+    top: 85%;
+    left: 36%;
+    font-size: 30px;
+    opacity: 0;
+}
+
+.shivjiImg:hover p{
+    opacity: 1;
+}
+
+.shivjiImg:hover img{
+    opacity: 0.33;
+}
+
+
+
+.title{
+    position: fixed;
+    top: 1%;
+    left: 10%;
+}
+
+
+.info p{
+    font-size: 20px;
+}
+
